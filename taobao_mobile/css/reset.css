@@ -1,0 +1,19 @@
+body,div{
+	margin: 0;
+}
+a{
+	text-decoration: none;
+	-webkit-tap-highlight-color: transparent;
+}
+ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+img{
+	border: none;
+	vertical-align: top;
+}
+input{
+	-webkit-appearance: none;
+}
